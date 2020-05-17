@@ -6,14 +6,14 @@ Android Simple Crash Report/Collect Library
 
 **Demo App** - [Click here](https://gitlab.com/manimaran/crashrepoter/-/jobs/556199226/artifacts/download)
 
-**Latest version :** [![](https://jitpack.io/v/com.gitlab.manimaran/crashrepoter.svg)](https://jitpack.io/#com.gitlab.manimaran/crashrepoter)
+**Latest version :** [![](https://jitpack.io/v/com.gitlab.manimaran/crashreporter.svg)](https://jitpack.io/#com.gitlab.manimaran/crashreporter)
 
 
 ### Screen shots
 
 <center>
 <img src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_1.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_1.jpg" width="230" height="380" />
-<img src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_2.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_2.jpg" width="230" height="380" />
+<img src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_2.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_2.jpg" width="220" height="380" />
 
 </center>
 
@@ -35,7 +35,7 @@ allprojects {
 
 ```xml
 dependencies {
-    implementation 'com.gitlab.manimaran:crashrepoter:v0.1'
+    implementation 'com.gitlab.manimaran:crashreporter:v0.1'
 }
 ```
 
