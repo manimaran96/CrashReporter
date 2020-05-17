@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_crash_report">View Crash Report</string>
+    <string name="check_your_message_here">Check the crash</string>
+    <string name="notification_crash_report_title">Notification crash</string>
+</resources>

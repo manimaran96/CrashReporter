@@ -1,18 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:text="@string/app_name"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:layout_margin="20dp" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <Button
+        android:id="@+id/btnNullPointer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Null Pointer Exception" />
+
+    <Button
+        android:id="@+id/btnArrayIndexOutOfFound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Array Index Out Of Found Exception"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:id="@+id/btnArithmetic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arithmetic Exception"
+        android:layout_margin="10dp" />
+
+    <TextView
+        android:id="@+id/txtCrashDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="16sp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/btnSendCrash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Crash Report"
+        android:layout_margin="5dp" />
+
+</LinearLayout>
+
+
+</ScrollView>
