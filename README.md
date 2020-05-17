@@ -12,8 +12,8 @@ Android Simple Crash Report/Collect Library
 ### Screen shots
 
 <center>
-<img src="https://gitlab.com/manimaran/crashreporter/raw/master/files/crashreporter_1.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/raw/master/files/crashreporter_1.jpg" width="300" height="500" />
-<img src="https://gitlab.com/manimaran/crashreporter/raw/master/files/crashreporter_2.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/raw/master/files/crashreporter_2.jpg" width="300" height="500" />
+<img src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_1.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_1.jpg" width="230" height="380" />
+<img src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_2.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_2.jpg" width="230" height="380" />
 
 </center>
 
