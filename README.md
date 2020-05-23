@@ -4,7 +4,7 @@ Android Simple Crash Report/Collect Library
 * Simple library to collect crashes.
 * No need any third party services like firebase.
 
-**Demo App** - [Click here](https://gitlab.com/manimaran/crashrepoter/-/jobs/556199226/artifacts/download)
+**Demo App** - [Click here](https://github.com/manimaran96/CrashReporter/blob/master/files/crash-reporter-app-debug.apk?raw=true)
 
 **Latest version :** [![](https://jitpack.io/v/com.gitlab.manimaran/crashreporter.svg)](https://jitpack.io/#com.gitlab.manimaran/crashreporter)
 
@@ -12,8 +12,7 @@ Android Simple Crash Report/Collect Library
 ### Screen shots
 
 <center>
-<img src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_1.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_1.jpg" width="230" height="380" />
-<img src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_2.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_2.jpg" width="220" height="380" />
+<img src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_1.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_1.jpg" width="225" height="380" /><img src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_2.jpg" data-canonical-src="https://gitlab.com/manimaran/crashreporter/-/raw/master/files/crashreporter_2.jpg" width="225" height="380" />
 
 </center>
 
